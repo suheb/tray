@@ -9,7 +9,7 @@ In the project directory, you can run:
 
 1. `yarn install` to install the dependencies
 
-2. `yarn start` to uns the app in the development mode. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+2. `yarn start` to run the app in the development mode.
 
 3. `yarn test` to launch the test runner in the interactive watch mode.
 
