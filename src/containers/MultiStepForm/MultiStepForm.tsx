@@ -52,7 +52,7 @@ const MultiStepForm = () => {
     >
       <Grid
         item
-        xs={4}
+        sm={4}
       >
         <ButtonGroup color="secondary" fullWidth>
           {Object.keys(steps).map((step, index) => <Button key={step} disabled={!isActiveStep(index)}>{step}</Button>)}
@@ -60,7 +60,7 @@ const MultiStepForm = () => {
       </Grid>
       <Grid
         item
-        xs={4}
+        sm={4}
       >
         <>
           {getStepContent(activeStep)}
