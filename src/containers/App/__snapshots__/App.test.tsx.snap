@@ -6,7 +6,7 @@ exports[`renders without crashing 1`] = `
     class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column MuiGrid-align-content-xs-center"
   >
     <div
-      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4"
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-sm-4"
     >
       <div
         class="MuiButtonGroup-root MuiButtonGroup-fullWidth"
@@ -53,7 +53,7 @@ exports[`renders without crashing 1`] = `
       </div>
     </div>
     <div
-      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4"
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-sm-4"
     >
       <div
         class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-justify-xs-flex-end"
